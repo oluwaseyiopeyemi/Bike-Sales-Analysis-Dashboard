@@ -45,4 +45,4 @@ The dashboard provides a clear, interactive view of bike purchase behavior, enab
 
 ## Preview
 ![Dashboard Preview](Dashboard.png)
-![Wireframe Preview](Wireframe.png)
+![Wireframe Preview](Wireframe.jpg)
